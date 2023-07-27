@@ -4,7 +4,7 @@ import { useParams } from "react-router-dom"
 import { getTopMovies } from "../../services/getData"
  
 import Slider from "../../components/Slider"
-import { Container } from "./Styles"
+import { Container } from "./styles"
 
 
 
